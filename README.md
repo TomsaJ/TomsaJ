@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me:
-Ich bin Student an der Fachhochschule Südwestfalen an dem Standort Iserlohn.<br>Ich studiere dort Informatik
+Ich bin Student an der Fachhochschule Südwestfalen an dem Standort Iserlohn.<br>Ich studiere dort Informatik.
 
 
 ## 🌐 Socials:
