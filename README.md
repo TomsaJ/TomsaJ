@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me:
-I study computer science at the South Westphalia University of Applied Sciences. Below you can see in which programming languages I have experience and two programs from Adobe. I am uploading code here to show a few modules of what is done there.
+I study computer science at the South Westphalia University of Applied Sciences. Below you can see in which programming languages I have experience and two programs from Adobe.
 
 
 # 💻 Tech Stack:
