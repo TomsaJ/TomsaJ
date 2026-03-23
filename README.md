@@ -1,6 +1,3 @@
-# 👨🏼‍💻 About Me:
-I am a software developer and studied at the South Westphalia University of Applied Sciences. I sometimes develop projects on the side.
-
 #### Understand – Develop – Change 
 
 # 💻 Tech Stack:
